@@ -206,13 +206,11 @@ SELECT * FROM sensor_data;
 
 - Fork repo và gửi pull request.
 - Góp ý cải tiến thêm chức năng mới.
-- Báo lỗi tại phần Issues.
 
 ---
 
 ## 📜 Giấy Phép
 
-Dự án phát hành dưới giấy phép **MIT License**.  
 Thoải mái sử dụng cho mục đích cá nhân, giáo dục hoặc thương mại.  
 Yêu cầu giữ nguyên tên tác giả gốc khi phát hành lại.
 
